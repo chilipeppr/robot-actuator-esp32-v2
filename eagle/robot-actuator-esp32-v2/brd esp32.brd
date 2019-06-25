@@ -126,7 +126,7 @@
 <layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.cGVyc29uYWw6dWUyOWUxNjY4" projecturn="a.cGVyc29uYWw6dWUyOWUxNjY4IzIwMTkwMTE2MTcwNjc5Mzc2" f3durn="urn:adsk.wipprod:dm.lineage:VYnXd5O8TLOrk2dZNeHvlg" pcbguid="42424db8-37ce-41ba-b3bb-7cc1dc4dffa3" lastpulledtime="" lastsyncedchangeguid="83feb5fd-7ac7-d7d7-b550-ba31911c4e3b"/>
+<fusionsync huburn="a.cGVyc29uYWw6dWUyOWUxNjY4" projecturn="a.cGVyc29uYWw6dWUyOWUxNjY4IzIwMTkwMTE2MTcwNjc5Mzc2" f3durn="urn:adsk.wipprod:dm.lineage:VYnXd5O8TLOrk2dZNeHvlg" pcbguid="42424db8-37ce-41ba-b3bb-7cc1dc4dffa3" lastpulledtime="" lastsyncedchangeguid="5063d13c-df3c-2f3e-b79d-d0e69e4bd693"/>
 <plain>
 <wire x1="0" y1="0" x2="37" y2="0" width="0" layer="20"/>
 <wire x1="37" y1="0" x2="37" y2="22.5" width="0" layer="20"/>
